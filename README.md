@@ -19,8 +19,8 @@
 Все выбранные организмы имеют достаточно высокий GC%
 
 
-# Colab
-https://colab.research.google.com/drive/1gl98D1ubV_41SqHC9KYB4gp9zLScq37n?usp=sharing
+# Код
+bio_project.ipynb
 
 # Сводная таблица
 
