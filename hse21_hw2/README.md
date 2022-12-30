@@ -1,7 +1,3 @@
-## *Google Colab*
-- 1 часть - https://colab.research.google.com/drive/1Wbzw_ergoeBvZhhhid6slFqWYvJ_olmP?usp=sharing
-- 2 часть - https://colab.research.google.com/drive/1m5trjJlFw3w9exsdF8fDtzfVzE_PPQAN?usp=sharing
-
 ## Статистика
 ##### Было предсказано генов всего
 **3620**
