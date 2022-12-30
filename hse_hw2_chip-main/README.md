@@ -1,8 +1,5 @@
 # hse_hw2_chip
 
-## Colab
-https://colab.research.google.com/drive/1xGeBRkUe6rj7iNCzAF9au9LZZMM2IxzN?usp=sharing
-
 ## отчеты FastQC
 
 
